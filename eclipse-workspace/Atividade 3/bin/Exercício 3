@@ -1,0 +1,7 @@
+Explique em suas palavras:
+
+(a) (0,5 ponto) Quando usar classes abstratas?
+	Quando se deseja estabelecer uma relação de origem comum (herança de uma mesma superclasse) entre duas ou mais classes em que existam métodos cuja implementação varia para cada classe filha, além de possivelmente métodos e atributos comuns (cuja implementação é idêntica).
+
+(b) (0,5 ponto) Quando usar interfaces?
+	Quando se deseja estabelecer uma relação de contrato entre duas ou mais classes, ou seja, que elas possuam obrigatoriamente a implementação (geralmente distinta, particular) de métodos e atributos com uma determinada assinatura.

@@ -1,0 +1,19 @@
+Defina em suas palavras os seguintes termos:
+
+(a) (0,5 pontos) Classe.
+	Se trata de um molde genérico que abstrai conceitos da vida real em código por meio de atributos (características) e métodos (comportamento). 
+
+(b) (0,5 pontos) Objeto.
+	São instâncias de classes, ou seja, representam uma unidade daquele conceito abstraído pela respectiva classe.
+
+(c) (0,5 pontos) Encapsulamento.
+	Conceito que trata sobre privacidade e escopo dos elementos de uma classe.
+	
+(d) (0,5 pontos) Construtor.
+	Método cuja função é instanciar e devolver um objeto da respectiva classe, podendo receber parâmetros e manusea-los. Pode existir mais de um construtor por classe e o construtor-base de cada classe é um construtor nulo.
+	
+(e) (0,5 pontos) Método estático.
+	É um método que diz respeito apenas à classe não aos objetos que a instanciam e, portanto, não utilizam suas variáveis de instância. É definido pela palavra reservada "static".
+	
+(f) (0,5 pontos) Variável estática.
+	Mesma lógica do item anterior.
